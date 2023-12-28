@@ -1,6 +1,10 @@
 # Eduardo Serafim   
 
-Olá! Me chamo Eduardo e tenho 22 anos. Estou no ultimo semestre Sistemas de Informação na FIAP. Atualmente, estou estagiando na área de redes, porém, busco uma transição de carreira para a área de desenvolvimento 
+Olá! Me chamo Eduardo e tenho 22 anos. Ja atuei na área de redes e busco migrar para a área de engenharia de
+software. Me formei em sistemas de informação pela FIAP em 2023 e de
+alguns meses pra cá, venho me especializando na área de back-end atuando
+no desenvolvimento de APIs Rest usando Java, Spring Boot e SQL
+
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EduardoSerafim&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
