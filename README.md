@@ -1,6 +1,6 @@
 # Eduardo Serafim   
 
-Olá! Me chamo Eduardo e tenho 22 anos. Ja atuei na área de redes e busco migrar para a área de engenharia de
+Olá! Me chamo Eduardo e tenho 23 anos. Atualmente atua como analista de dados e busco migrar para a área de engenharia de
 software. Me formei em sistemas de informação pela FIAP em 2023 e de
 alguns meses pra cá, venho me especializando na área de back-end atuando
 no desenvolvimento de APIs Rest usando Java, Spring Boot e SQL
